@@ -5,8 +5,8 @@ I'm fierce, don't go epilepsy with me here.
 查看我的簡歷 (简体中文)：<a href="https://github.com/hinczhang/hinczhang/blob/main/%E5%BC%A0%E7%82%85%E7%84%B1-%E7%AE%80%E5%8E%86-%E6%A0%A1%E6%8B%9B.pdf"><img src="https://img.shields.io/badge/简历-CN-brightgreen"/></a>  
 Read my resume: <a href="https://github.com/hinczhang/hinczhang/blob/main/%E5%BC%A0%E7%82%85%E7%84%B1-%E7%AE%80%E5%8E%86-%E6%A0%A1%E6%8B%9B.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
 ### Contact 
-📫 联系方式 How to reach me: hinczhang@whu.edu.cn  
-💬 咨询 Ask me about: 全栈 Fullstack, 计算机视觉 Computer Vision, 3D, 并行 Parallel Computing, 编译器 Compiler  
+📫 聯系方式 How to reach me: hinczhang@whu.edu.cn  
+💬 咨詢 Ask me about: 全棧 Fullstack, 計算機視覺 Computer Vision, 3D, 并行 Parallel Computing, 編譯器 Compiler  
 ## 教育背景 Education Background <img src="https://img.shields.io/badge/教育-Education-brightgreen"/>
 - 2017.09-2021.06 武漢大學（罕見大學）遙感信息工程學院地理信息工程方向 (Wuhan University, School of Remote Sensing Information and Eng., GIS track)  
 - 2021.10-2023.09 德國某一工程類大學 (Some technical university in Deutschland)  
@@ -14,7 +14,7 @@ Read my resume: <a href="https://github.com/hinczhang/hinczhang/blob/main/%E5%BC
 ## 工作經歷 Work Experience <img src="https://img.shields.io/badge/工作-Work-orange"/>
 - 2020.04-2021.06 武漢大學ISIP Lab的研究助理 （RA in Wuhan University, ISIP Lab）  
 - 2021.03-2021.06 武漢大學的教學助理（很榮幸能夠和龔健雅院士一起合作）（TA in Wuhan University）
-- 2021.04-2021.08 美國環境系統研究所公司北京研發中心，R&D，发布Piek心脏健康测量算法v2.0（ESRI，R&D）  
+- 2021.04-2021.08 美國環境系統研究所公司北京研發中心，R&D，發布Piek心臟健康測量算法v2.0（ESRI，R&D）  
 - 2022.10-2023.09 通用 General Motors Cruise LLC.，主要是做雷達仿真和雷達工具鏈的GPU并行優化  (Cruise, Working Student)  
 - 2023.11-? 北京算能科技有限公司 上海site， 算法工程師，主要做RISCV芯片指令拓展相關（LLVM/QEMU） (Sophgo Tech. LLC., Algorithm Engineer Junior)
 ## 技術棧 Technique Stack <img src="https://img.shields.io/badge/Techniques-v1.0.0-red"/>
