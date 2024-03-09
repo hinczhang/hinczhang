@@ -3,7 +3,7 @@
 我很凶的，不要在我这里发癫。 个人简历网站：[https://cv.standardserve.org/](https://cv.standardserve.org/)  
 I'm fierce, don't go epilepsy with me here.  
 查看我的簡歷 (简体中文)：<a href="https://github.com/hinczhang/hinczhang/blob/main/%E5%BC%A0%E7%82%85%E7%84%B1-%E7%AE%80%E5%8E%86-%E6%A0%A1%E6%8B%9B.pdf"><img src="https://img.shields.io/badge/简历-CN-brightgreen"/></a>  
-Read my resume: <a href="https://github.com/hinczhang/hinczhang/blob/main/%E5%BC%A0%E7%82%85%E7%84%B1-%E7%AE%80%E5%8E%86-%E6%A0%A1%E6%8B%9B.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
+Read my resume: <a href="https://github.com/hinczhang/hinczhang/blob/main/ZHANGJIONGYAN-RESUME-GRADUATE.pdf"><img src="https://img.shields.io/badge/简历-EN-yellowgreen"/></a>  
 ### Contact 
 📫 聯系方式 How to reach me: hinczhang@whu.edu.cn  
 💬 咨詢 Ask me about: 全棧 Fullstack, 計算機視覺 Computer Vision, 3D, 并行 Parallel Computing, 編譯器 Compiler  
