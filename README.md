@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Python       25 hrs 41 mins  ███████████████▒░░░░░░░░░   60.73 %
-C            12 hrs 49 mins  ███████▓░░░░░░░░░░░░░░░░░   30.34 %
-Other        1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-PHP          1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Assembly     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Python             21 hrs 15 mins  ████████████░░░░░░░░░░░░░   47.89 %
+C                  13 hrs 50 mins  ███████▓░░░░░░░░░░░░░░░░░   31.19 %
+C++                2 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
+Other              2 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Assembly           1 hr 23 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
 ```
 
 <!--END_SECTION:waka-->
