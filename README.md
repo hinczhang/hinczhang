@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C                 17 hrs 11 mins  █████████████▓░░░░░░░░░░░   54.33 %
-Python            4 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
-C++               2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.12 %
-Other             2 hrs 41 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-TableGen          2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+C                 14 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.89 %
+Python            5 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.00 %
+Other             3 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.70 %
+C++               2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+TableGen          2 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 ```
 
 <!--END_SECTION:waka-->
