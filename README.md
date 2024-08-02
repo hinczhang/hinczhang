@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C                  8 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   27.88 %
-reStructuredText   5 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
-Kotlin             3 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
-C++                2 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-Other              2 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 %
+C                  10 hrs 38 mins  ████████▒░░░░░░░░░░░░░░░░   33.84 %
+reStructuredText   5 hrs 47 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+Kotlin             2 hrs 39 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+C++                2 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+Other              2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
 ```
 
 <!--END_SECTION:waka-->
