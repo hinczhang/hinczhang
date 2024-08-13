@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++                15 hrs 58 mins  ██████████▒░░░░░░░░░░░░░░   40.77 %
-C                  12 hrs 18 mins  ████████░░░░░░░░░░░░░░░░░   31.42 %
-TableGen           6 hrs 53 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
-Objective-C        1 hr 35 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
-Singularity        43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+C++                15 hrs 26 mins  █████████▓░░░░░░░░░░░░░░░   38.39 %
+C                  13 hrs 18 mins  ████████▒░░░░░░░░░░░░░░░░   33.08 %
+TableGen           7 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.30 %
+Kotlin             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
+Objective-C        1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
 ```
 
 <!--END_SECTION:waka-->
