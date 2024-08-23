@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C                  10 hrs 24 mins  ██████████░░░░░░░░░░░░░░░   40.12 %
-Assembly           4 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.18 %
-Kotlin             4 hrs 11 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.17 %
-C++                3 hrs 38 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
-Singularity        51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+C                  13 hrs 12 mins  █████████████▒░░░░░░░░░░░   53.96 %
+Assembly           4 hrs 27 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.22 %
+Kotlin             2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+C++                2 hrs 16 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
+LLVM               25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
 ```
 
 <!--END_SECTION:waka-->
