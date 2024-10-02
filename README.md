@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C                12 hrs 45 mins  ████████▒░░░░░░░░░░░░░░░░   33.52 %
-Python           10 hrs 14 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
-Kotlin           7 hrs 33 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-C++              5 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
-Markdown         48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
+C                11 hrs 40 mins  █████████▒░░░░░░░░░░░░░░░   36.90 %
+Python           10 hrs 14 mins  ████████░░░░░░░░░░░░░░░░░   32.36 %
+C++              4 hrs 8 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Kotlin           3 hrs 49 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Markdown         40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ```
 
 <!--END_SECTION:waka-->
