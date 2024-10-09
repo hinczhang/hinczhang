@@ -65,7 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python             2 hrs 59 mins   ███████████████░░░░░░░░░░   60.65 %
+CMake              44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
+Markdown           32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Text               29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+C                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
