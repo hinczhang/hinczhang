@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++                        4 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
-Python                     3 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
-C                          3 hrs 26 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Other                      2 hrs 48 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
-Docker                     2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+C++                        3 hrs 15 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+Python                     3 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
+C                          2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
+Other                      2 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Docker                     2 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
 ```
 
 <!--END_SECTION:waka-->
