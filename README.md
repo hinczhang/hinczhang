@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++                4 hrs 9 mins    ██████████▓░░░░░░░░░░░░░░   42.54 %
-C                  2 hrs 17 mins   ██████░░░░░░░░░░░░░░░░░░░   23.36 %
-CMake              1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-TableGen           59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.17 %
-Singularity        16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+C++                3 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.01 %
+C                  1 hr 40 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+TableGen           1 hr 31 mins    █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Singularity        25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
+Other              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
