@@ -65,11 +65,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        2 hrs 49 mins   ███████████████▒░░░░░░░░░   61.15 %
-TableGen   39 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-C          30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Other      23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Assembly   14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+Other   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
