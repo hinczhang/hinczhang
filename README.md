@@ -65,7 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   16 mins         █████████████████████████   100.00 %
+C++        2 hrs 50 mins   ██████████████████████▓░░   91.03 %
+C          9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Other      5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Assembly   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
