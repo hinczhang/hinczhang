@@ -65,7 +65,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++   2 mins          █████████████████████████   100.00 %
+C++        16 mins         █████████████████████▒░░░   85.11 %
+C          2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+Assembly   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
