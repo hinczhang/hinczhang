@@ -65,9 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        1 hr 24 mins    ████████████████▓░░░░░░░░   66.62 %
-C          30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Assembly   11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 %
+C             1 hr 27 mins    ███████████▓░░░░░░░░░░░░░   46.85 %
+C++           1 hr 25 mins    ███████████▒░░░░░░░░░░░░░   45.56 %
+Assembly      11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+CMake         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
