@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++                15 hrs 3 mins   █████████▓░░░░░░░░░░░░░░░   39.30 %
-C                  14 hrs 6 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-Perl               3 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-Bash               2 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-Objective-C        1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+C++                19 hrs 1 min    ████████████▒░░░░░░░░░░░░   49.07 %
+C                  9 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+Perl               4 hrs 16 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 %
+Bash               2 hrs 25 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+Objective-C        1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
