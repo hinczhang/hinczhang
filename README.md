@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-CMake         2 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.72 %
-C             1 hr 53 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.31 %
-Python        1 hr 46 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-C++           37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
-Singularity   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+CMake         2 hrs 8 mins    ██████████▒░░░░░░░░░░░░░░   41.09 %
+Python        1 hr 46 mins    ████████▓░░░░░░░░░░░░░░░░   34.05 %
+C++           47 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.26 %
+Singularity   15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Text          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 ```
 
 <!--END_SECTION:waka-->
