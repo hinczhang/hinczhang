@@ -65,11 +65,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C             3 hrs 51 mins   █████████████████░░░░░░░░   68.44 %
-C++           1 hr 15 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Other         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-Bash          14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
