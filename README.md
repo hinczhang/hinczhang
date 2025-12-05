@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C                  6 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   36.81 %
-C++                3 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-Bash               3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
-Python             1 hr 21 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
-Wavefront Object   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+C                  6 hrs 53 mins   █████████▓░░░░░░░░░░░░░░░   39.22 %
+C++                4 hrs 45 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
+Bash               2 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+Python             1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.50 %
+Wavefront Object   33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
 ```
 
 <!--END_SECTION:waka-->
