@@ -65,11 +65,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      32 mins               ████████████████████▓░░░░   82.17 %
-Markdown   6 mins                ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-YAML       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-TOML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-Python     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+TOML    11 mins               ██████████████████████▓░░   90.89 %
+Other   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
 ```
 
 <!--END_SECTION:waka-->
