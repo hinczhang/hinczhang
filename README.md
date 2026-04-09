@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML    11 mins               ██████████████████████▓░░   90.89 %
-Other   1 min                 ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+TOML    11 mins               █████████████████████████   99.90 %
+Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
