@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TOML    11 mins               █████████████████████████   99.90 %
-Other   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+TOML         11 mins               ██████████████████░░░░░░░   72.47 %
+SSH Config   4 mins                ███████░░░░░░░░░░░░░░░░░░   27.53 %
 ```
 
 <!--END_SECTION:waka-->
