@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        2 hrs 21 mins         █████████░░░░░░░░░░░░░░░░   36.30 %
-JSON         2 hrs 18 mins         █████████░░░░░░░░░░░░░░░░   35.52 %
-YAML         44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Markdown     33 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-Bash         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Other        2 hrs 21 mins         █████████▒░░░░░░░░░░░░░░░   36.80 %
+JSON         2 hrs 18 mins         █████████░░░░░░░░░░░░░░░░   36.17 %
+YAML         44 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.56 %
+Markdown     26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.03 %
+Bash         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
 ```
 
 <!--END_SECTION:waka-->
