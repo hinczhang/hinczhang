@@ -65,11 +65,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 16 mins         █████████████▒░░░░░░░░░░░   53.37 %
-JSON       1 hr 31 mins          █████████░░░░░░░░░░░░░░░░   35.71 %
-Bash       14 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
-Markdown   7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-XML        6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Other   45 mins               ████████████████████████░   96.15 %
+XML     1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
