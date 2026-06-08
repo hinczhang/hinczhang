@@ -65,9 +65,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C            20 mins               ██████████████████░░░░░░░   72.26 %
-SSH Config   5 mins                █████░░░░░░░░░░░░░░░░░░░░   20.07 %
-Markdown     2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+C          20 mins               ██████████████████████▓░░   90.41 %
+Markdown   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 %
 ```
 
 <!--END_SECTION:waka-->
