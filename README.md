@@ -65,7 +65,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         1 hr 26 mins          █████████████░░░░░░░░░░░░   51.77 %
+C            44 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+Other        13 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+C++          12 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+SSH Config   4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
