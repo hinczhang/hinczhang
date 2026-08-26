@@ -65,9 +65,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Other        13 mins               ████████████▓░░░░░░░░░░░░   50.17 %
-C            8 mins                ████████░░░░░░░░░░░░░░░░░   32.38 %
-SSH Config   4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.45 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
